@@ -86,3 +86,6 @@ This project is a simple CRUD API built with Go to manage employee records. It a
     ```bash
             curl -X DELETE http://localhost:8080/employees/<id>
     ```
+
+
+# google slide link: https://docs.google.com/presentation/d/1RZejC58BmxR6qkps-YkvWufwOyas3mimjlQbEiKJJA0/edit#slide=id.g2a4cc96df6c_0_26
